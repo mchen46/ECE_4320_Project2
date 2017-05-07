@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motion Training App</string>
+    <string name="add_file">Add file</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="file_name">File Name</string>
+    <string name="work_continuously">Work continuously</string>
+    <string name="stop_if_mistake">Stop if you make a mistake</string>
+    <string name="title_activity_training_sequence">TrainingSequence</string>
+</resources>
